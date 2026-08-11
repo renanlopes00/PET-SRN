@@ -1,7 +1,7 @@
 # PET-SRN
 
 Sobre o Projeto
-O Patinhas Felizes é uma plataforma web desenvolvida com o propósito de facilitar e incentivar a adoção responsável de animais, reunindo em um único espaço informações sobre cães e gatos resgatados que estão à procura de um novo lar. A proposta do site é aproximar os animais de possíveis adotantes, apresentando seus perfis, características, informações e outras formas de contato, tornando o processo de busca por um animal mais organizado e acessível.
+O PET-SRN é uma plataforma web desenvolvida com o propósito de facilitar e incentivar a adoção responsável de animais, reunindo em um único espaço informações sobre cães e gatos resgatados que estão à procura de um novo lar. A proposta do site é aproximar os animais de possíveis adotantes, apresentando seus perfis, características, informações e outras formas de contato, tornando o processo de busca por um animal mais organizado e acessível.
 
 ## Objetivos do projeto
 Estimular a adoção consciente e responsável de animais;
